@@ -9,7 +9,7 @@ An E-Marketplace platform connecting farmers, buyers, and administrators to stre
 ## 🛠️ Tech Stack
 - Frontend: HTML, CSS, JavaScript  
 - Backend: PHP
-- Database: MYSQL
+- Database: SQL
 
 ---
 👩‍💻 Developed by [Aishwarya Dhangar](https://github.com/AishwaryaDhangar14)
